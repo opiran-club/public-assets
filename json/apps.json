@@ -32,6 +32,18 @@
     },
     "ShowInMenu": true
   },
+        {
+    "name": "v2raytun",
+    "urlScheme": "v2raytun://import/",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/7d/a5/157da51a-6c29-b81d-bc9b-136e4266bc72/AppIcon-0-0-85-220-0-5-0-2x.png/1200x630wa.png",
+    "link": "v2raytun://import/{url}",
+    "os": ["iOS", "Android"],
+    "downloadLinks": {
+      "iOS": "https://apps.apple.com/us/app/v2raytun/id6476628951"
+      "Android": "https://play.google.com/store/apps/details?id=com.v2raytun.android&hl=en-US"
+    },
+    "ShowInMenu": true
+  },
     {
     "name": "Shadowrocket",
     "image": "https://avatars.githubusercontent.com/u/22568082?s=200&v=4",
