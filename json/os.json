@@ -12,7 +12,7 @@
           "description": "Simple iOS client supporting V2Ray subscriptions and QR scan.",
           "faDescription": "Happ یک کلاینت ساده برای iOS با پشتیبانی از لینک و QR است.",
           "configLink": "happ://import-subscription?url={url}",
-          "downloadLink": "https://apps.apple.com/app/happ/id0000000000",
+          "downloadLink": "https://apps.apple.com/us/app/happ-proxy-utility/id6504287215",
           "videoLink": "https://example.com/happ-video"
         },
         {
@@ -69,7 +69,7 @@
           "description": "A V2Ray client for Android devices.",
           "faDescription": "V2rayNG یک کلاینت V2Ray برای دستگاه‌های اندرویدی است.",
           "configLink": "v2rayng://install-config",
-          "downloadLink": "https://github.com/2dust/v2rayNG/releases/download/1.8.39/v2rayNG_1.8.39_universal.apk",
+          "downloadLink": "https://github.com/2dust/v2rayNG/releases/download/1.10.22/v2rayNG_1.10.22_universal.apk",
           "videoLink": "https://example.com/v2rayng-video"
         },
         {
@@ -106,7 +106,7 @@
           "description": "A Windows V2Ray client with GUI support.",
           "faDescription": "v2rayN یک کلاینت V2Ray برای ویندوز با پشتیبانی از رابط کاربری است.",
           "configLink": "v2rayng://install-config",
-          "downloadLink": "https://github.com/2dust/v2rayN/releases/download/6.55/v2rayN-With-Core.zip",
+          "downloadLink": "https://github.com/2dust/v2rayN/releases/download/7.14.9/v2rayN-windows-64-desktop.zip",
           "videoLink": "https://example.com/v2rayn-video"
         },
         {
