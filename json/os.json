@@ -47,7 +47,7 @@
         },
         {
           "name": "v2raytun",
-          "price": "2.99",
+          "price": "0",
           "logo": "https://raw.githubusercontent.com/opiran-club/public-assets/refs/heads/main/icons/v2raytun.png",
           "description": "A rule-based proxy utility client for iOS.",
           "faDescription": "v2raytun یک ابزار پروکسی قانون‌محور برای iOS است.",
