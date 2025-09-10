@@ -30,7 +30,7 @@
     "downloadLinks": {
       "iOS": "https://apps.apple.com/us/app/foxray/id6448898396"
     },
-    "ShowInMenu": true
+    "ShowInMenu": false
   },
         {
     "name": "v2raytun",
@@ -62,7 +62,7 @@
     "downloadLinks": {
       "iOS": "https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690"
     },
-    "ShowInMenu": true
+    "ShowInMenu": false
   },
   {
     "name": "V2rayNG",
@@ -121,7 +121,7 @@
       "Windows": "https://github.com/MatsuriDayo/nekoray/releases",
       "Linux": "https://github.com/MatsuriDayo/nekoray/releases"
     },
-    "ShowInMenu": true
+    "ShowInMenu": false
   },
   {
     "name": "SingBox",
