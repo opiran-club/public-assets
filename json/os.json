@@ -91,7 +91,7 @@
           "configLink": "hiddify://import-profile?url={url}",
           "downloadLink": "https://github.com/hiddify/hiddify-next/releases/download/v2.5.7/Hiddify-Android-universal.apk",
           "videoLink": "https://example.com/hiddify-android-video"
-        },
+        }
       ]
     },
     {
