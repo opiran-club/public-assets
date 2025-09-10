@@ -6,15 +6,15 @@
       "osLogo": "https://raw.githubusercontent.com/opiran-club/public-assets/refs/heads/main/icons/Apple_logo_black.svg",
       "apps": [
         {
-  "name": "Happ",
-  "price": "0",
-  "logo": "https://raw.githubusercontent.com/opiran-club/public-assets/refs/heads/main/icons/happ.png",
-  "description": "Simple iOS client supporting V2Ray subscriptions and QR scan.",
-  "faDescription": "Happ یک کلاینت ساده برای iOS با پشتیبانی از لینک و QR است.",
-  "configLink": "happ://import-subscription?url={url}",
-  "downloadLink": "https://apps.apple.com/app/happ/id0000000000",
-  "videoLink": "https://example.com/happ-video"
-},
+          "name": "Happ",
+          "price": "0",
+          "logo": "https://raw.githubusercontent.com/opiran-club/public-assets/refs/heads/main/icons/happ.png",
+          "description": "Simple iOS client supporting V2Ray subscriptions and QR scan.",
+          "faDescription": "Happ یک کلاینت ساده برای iOS با پشتیبانی از لینک و QR است.",
+          "configLink": "happ://import-subscription?url={url}",
+          "downloadLink": "https://apps.apple.com/app/happ/id0000000000",
+          "videoLink": "https://example.com/happ-video"
+        },
         {
           "name": "Streisand",
           "price": "0",
@@ -35,17 +35,17 @@
           "downloadLink": "https://apps.apple.com/us/app/shadowrocket/id932747118",
           "videoLink": "https://example.com/shadowrocket-video"
         },
-{
-  "name": "Hiddify",
-  "price": "0",
-  "logo": "https://raw.githubusercontent.com/opiran-club/public-assets/refs/heads/main/icons/hiddify.png",
-  "description": "Full-featured app supporting multiple protocols including V2Ray.",
-  "faDescription": "Hiddify یک اپلیکیشن کامل با پشتیبانی از چندین پروتکل مانند V2Ray است.",
-  "configLink": "hiddify://import-profile?url={url}",
-  "downloadLink": "https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532",
-  "videoLink": "https://example.com/hiddify-ios-video"
-},
-                {
+        {
+          "name": "Hiddify",
+          "price": "0",
+          "logo": "https://raw.githubusercontent.com/opiran-club/public-assets/refs/heads/main/icons/hiddify.png",
+          "description": "Full-featured app supporting multiple protocols including V2Ray.",
+          "faDescription": "Hiddify یک اپلیکیشن کامل با پشتیبانی از چندین پروتکل مانند V2Ray است.",
+          "configLink": "hiddify://import-profile?url={url}",
+          "downloadLink": "https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532",
+          "videoLink": "https://example.com/hiddify-ios-video"
+        },
+        {
           "name": "v2raytun",
           "price": "2.99",
           "logo": "https://raw.githubusercontent.com/opiran-club/public-assets/refs/heads/main/icons/v2raytun.png",
@@ -81,19 +81,19 @@
           "configLink": "v2raytun://install-sub?url={url}&name=SUBnew",
           "downloadLink": "https://play.google.com/store/apps/details?id=com.v2raytun.android&hl=en-US",
           "videoLink": "https://example.com/v2raytun-video"
-        }
+        },
+        {
+          "name": "Hiddify",
+          "price": "0",
+          "logo": "https://raw.githubusercontent.com/opiran-club/public-assets/refs/heads/main/icons/hiddify.png",
+          "description": "Full-featured app supporting multiple protocols including V2Ray.",
+          "faDescription": "Hiddify یک اپلیکیشن کامل با پشتیبانی از چندین پروتکل مانند V2Ray است.",
+          "configLink": "hiddify://import-profile?url={url}",
+          "downloadLink": "https://github.com/hiddify/hiddify-next/releases/download/v2.5.7/Hiddify-Android-universal.apk",
+          "videoLink": "https://example.com/hiddify-android-video"
+        },
       ]
     },
-{
-  "name": "Hiddify",
-  "price": "0",
-  "logo": "https://raw.githubusercontent.com/opiran-club/public-assets/refs/heads/main/icons/hiddify.png",
-  "description": "Full-featured app supporting multiple protocols including V2Ray.",
-  "faDescription": "Hiddify یک اپلیکیشن کامل با پشتیبانی از چندین پروتکل مانند V2Ray است.",
-  "configLink": "hiddify://import-profile?url={url}",
-  "downloadLink": "https://github.com/hiddify/hiddify-next/releases/download/v2.5.7/Hiddify-Android-universal.apk",
-  "videoLink": "https://example.com/hiddify-android-video"
-},
     {
       "name": "ویندوز",
       "engName": "Windows",
@@ -108,29 +108,29 @@
           "configLink": "v2rayng://install-config",
           "downloadLink": "https://github.com/2dust/v2rayN/releases/download/6.55/v2rayN-With-Core.zip",
           "videoLink": "https://example.com/v2rayn-video"
+        },
+        {
+          "name": "Throne",
+          "price": "0",
+          "logo": "https://raw.githubusercontent.com/opiran-club/public-assets/refs/heads/main/icons/throne.png",
+          "description": "Smart cross-platform V2Ray client.",
+          "faDescription": "Throne یک کلاینت هوشمند و چندسکویی برای V2Ray است.",
+          "configLink": "throne://import?url={url}",
+          "downloadLink": "https://github.com/throneproj/Throne/releases/download/1.0.5/Throne-1.0.5-windows64-installer.exe",
+          "videoLink": "https://example.com/throne-windows-video"
+        },
+        {
+          "name": "Hiddify",
+          "price": "0",
+          "logo": "https://raw.githubusercontent.com/opiran-club/public-assets/refs/heads/main/icons/hiddify.png",
+          "description": "Full-featured app supporting multiple protocols including V2Ray.",
+          "faDescription": "Hiddify یک اپلیکیشن کامل با پشتیبانی از چندین پروتکل مانند V2Ray است.",
+          "configLink": "hiddify://import-profile?url={url}",
+          "downloadLink": "https://github.com/hiddify/hiddify-next/releases/download/v2.5.7/Hiddify-Windows-Setup-x64.exe",
+          "videoLink": "https://example.com/hiddify-windows-video"
         }
       ]
     },
-    {
-  "name": "Throne",
-  "price": "0",
-  "logo": "https://raw.githubusercontent.com/opiran-club/public-assets/refs/heads/main/icons/throne.png",
-  "description": "Smart cross-platform V2Ray client.",
-  "faDescription": "Throne یک کلاینت هوشمند و چندسکویی برای V2Ray است.",
-  "configLink": "throne://import?url={url}",
-  "downloadLink": "https://github.com/throneproj/Throne/releases/download/1.0.5/Throne-1.0.5-windows64-installer.exe",
-  "videoLink": "https://example.com/throne-windows-video"
-},
-{
-  "name": "Hiddify",
-  "price": "0",
-  "logo": "https://raw.githubusercontent.com/opiran-club/public-assets/refs/heads/main/icons/hiddify.png",
-  "description": "Full-featured app supporting multiple protocols including V2Ray.",
-  "faDescription": "Hiddify یک اپلیکیشن کامل با پشتیبانی از چندین پروتکل مانند V2Ray است.",
-  "configLink": "hiddify://import-profile?url={url}",
-  "downloadLink": "https://github.com/hiddify/hiddify-next/releases/download/v2.5.7/Hiddify-Windows-Setup-x64.exe",
-  "videoLink": "https://example.com/hiddify-windows-video"
-},
     {
       "name": "لینوکس",
       "engName": "Linux",
