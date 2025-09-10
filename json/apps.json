@@ -1,4 +1,15 @@
 [
+    {
+    "name": "Happ",
+    "urlScheme": "happ://import/",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/a0/cd/83a0cd76-ef34-d890-7b44-a1a9a17041c5/AppIcon-0-0-1x_U007epad-0-0-0-0-85-220.png/512x512bb.jpg",
+    "link": "happ://import/{url}",
+    "os": ["iOS"],
+    "downloadLinks": {
+      "iOS": "https://apps.apple.com/us/app/happ-proxy-utility/id6504287215"
+    },
+    "ShowInMenu": true
+  },
   {
     "name": "Streisand",
     "urlScheme": "streisand://import/",
@@ -88,7 +99,7 @@
       "Windows": "https://github.com/2dust/v2rayN/releases/download/7.0.7/v2rayN-windows-64-With-Core.zip",
       "Linux": "https://github.com/2dust/v2rayN/releases/download/7.0.7/v2rayN-linux-64.zip"
     },
-    "ShowInMenu": false
+    "ShowInMenu": true
   },
   {
     "name": "Nekoray",
@@ -98,7 +109,7 @@
       "Windows": "https://github.com/MatsuriDayo/nekoray/releases",
       "Linux": "https://github.com/MatsuriDayo/nekoray/releases"
     },
-    "ShowInMenu": false
+    "ShowInMenu": true
   },
   {
     "name": "SingBox",
@@ -112,6 +123,6 @@
       "Windows": "https://github.com/SagerNet/sing-box/releases/download/v1.11.0-alpha.6/sing-box-1.11.0-alpha.6-windows-386.zip",
       "Linux": "https://github.com/SagerNet/sing-box/releases"
     },
-    "ShowInMenu": false
+    "ShowInMenu": true
   }
 ]
